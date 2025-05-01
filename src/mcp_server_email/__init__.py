@@ -1,6 +1,6 @@
 import argparse
 import asyncio
-import server
+from . import server
 
 
 def main():
